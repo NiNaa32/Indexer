@@ -21,5 +21,5 @@ namespace Indexer
             }
         }
     }
-    // Den föregående klassen använder denna pekare när den deklarerar en array 
+    // Den föregående klassen använder pekare this när den deklarerar en array 
 }
